@@ -1,0 +1,6 @@
+Line 125: Class prjDumpster.ctrlLiner of control ctrlLiner1 was not a loaded control class.
+Line 172: Class prjDumpster.ctrlLiner of control ctrlLiner2 was not a loaded control class.
+Line 131: The property name _ExtentX in ctrlLiner1 is invalid.
+Line 132: The property name _ExtentY in ctrlLiner1 is invalid.
+Line 178: The property name _ExtentX in ctrlLiner2 is invalid.
+Line 179: The property name _ExtentY in ctrlLiner2 is invalid.

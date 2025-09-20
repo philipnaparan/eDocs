@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<appsettings>
+	<section name="system">
+		<item name="lastlogin" value="coeam7vbnzxcqwt"/>
+		<item name="lastloginpwd" value="coeam7vbnzxcqwt"/>
+		<item name="dbconnection" value="%&lt;8w$wpl5wvfzxcam7pm1w$w&amp;|DWnY@:acDc.?TcDcc&gt;:1&quot;r-gtGPQaq@^a(%&lt;8coe6a@6a@dp0pl5w$wam7&amp;|Daq@9022.&amp;/w!|pq^a(%&lt;8pm1w$w6a@zxc6a@!2&amp;=#BWnYpm1ibq(=cw$wzxc!2&amp;vn&amp;=#BaP0qwtmoppl5&amp;|D{Shw$w(=cpm1^a(_%M6a@pm1w$w=#BaP01&quot;r&amp;|D6a@coe^a(aP0qwtzxc!2&amp;zxccoeqe2=#B|p*coe!2&amp;coeqe2pl59v4&amp;|Dam7wer@+xzxcqe2pm1{Shw$wcoeibqf88pm1w$w^a(1&quot;rcoe!2&amp;coe=#BWnYpl5(=cw$wibqpm1&amp;|DGPQ_?/WnY@:acDcc&gt;:Im^%&lt;8&amp;c$c&gt;:WnYWnY"/>
+		<item name="fileviewcode" value="1"/>
+		<item name="winstate" value="2"/>
+		<item name="usesqlserver" value="True"/>
+	</section>
+</appsettings>
